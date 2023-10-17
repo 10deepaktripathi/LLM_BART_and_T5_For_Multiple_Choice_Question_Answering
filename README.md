@@ -11,4 +11,3 @@ This competition uses a hidden test. When your submitted notebook is scored, the
 - [bart-and-flan-t5-base-model.ipynbb](./bart-and-flan-t5-base-model.ipynb):Notebook contains detailed steps taken for modelling the tweets related to disater data
 - [train.csv](./train.csv): the training set, which includes the labeled tweets.
 - [test.csv](./test.csv): the test set; your task is to predict the tweets available in test file.
-
